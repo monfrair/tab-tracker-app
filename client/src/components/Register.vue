@@ -4,7 +4,7 @@
 <input 
 type ="email"
 name="email"
-placeholder="email" />
+placeholder="email" /input>
 </div>
   
 </template>
